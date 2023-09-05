@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
 
 
 *{
@@ -8,7 +8,7 @@
     outline: none; border: none;
     text-decoration: none;
     text-transform: capitalize;
-    font-family: 'Roboto';
+    font-family: 'Poppins', sans-serif;
     transform: .2s linear;
 }
 
