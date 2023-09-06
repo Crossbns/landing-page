@@ -44,10 +44,10 @@
 
         <div class="cont" id="home">
 
-            <img class="fondo" src="imagenes/fondo.jpg" alt="">
+            <img class="fondo" src="imagenes/fondo.png" alt="">
             <div class="adv">
                 <h1 class="advtitle">EMPIEZA UNA NUEVA VIDA A BASE DE PRODUCTOS NATURALES</h1>
-                <h5 class="advsub">¡Y SALVA A LOS ANIMALES EN EL PROCESO!</h5>
+                <h3 class="advsub">¡Y SALVA A LOS ANIMALES EN EL PROCESO!</h5>
             </div>
 
         </div>
