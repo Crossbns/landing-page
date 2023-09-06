@@ -102,8 +102,10 @@ label{
 
 .adv{
     position: absolute;
-    top: 250px;
+    top: 200px;
     left: 90px;
+    height: 500px;
+    width: 1200px;
     font-weight: 100px;
     text-align: left;
     border-radius: 12px;
@@ -117,7 +119,7 @@ label{
     word-spacing: -5;
     color:white;
     background: solid;
-    font-size: 40px;
+    font-size: 70px;
 
 }
 
