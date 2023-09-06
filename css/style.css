@@ -92,9 +92,6 @@ label{
 .fondo {
     max-width: 100%;
     max-height: 100%;
-    height: auto;
-    width: auto;
-    transform: scale(0.5);
 }
 
 .cont{
